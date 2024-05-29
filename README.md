@@ -27,12 +27,21 @@ View the design mockup here: [Figma](<https://www.figma.com/design/DtkQmQ797hk0n
 ## Instructions for Launch:
 1. Clone the repository:
 
+```bash
 git clone https://github.com/RusLan2186/nothing-landing.git
+```
+
 
 2. Install the necessary dependencies using:
+   
+```bash
 npm install
+```
 
 3. Launch the project using:
+   
+```bash
 npm start
+```
 
 
