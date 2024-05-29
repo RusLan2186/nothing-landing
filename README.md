@@ -14,9 +14,9 @@ View the design mockup here: [Figma](<https://www.figma.com/design/DtkQmQ797hk0n
 
 ## Features
 
-- **Responsive Design: The page is fully responsive, ensuring a seamless experience across all devices.
-- **Interactive Elements: Hover styles, smooth scrolling, and animations enhance user engagement.
-- **Quick Load Time: Optimized images and efficient coding practices ensure fast loading times.
+- Responsive Design: The page is fully responsive, ensuring a seamless experience across all devices.
+- Interactive Elements: Hover styles, smooth scrolling, and animations enhance user engagement.
+- Quick Load Time: Optimized images and efficient coding practices ensure fast loading times.
 
 ## Technologies used
 
