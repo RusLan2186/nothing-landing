@@ -5,7 +5,7 @@ Check out the [DEMO LINK](https://ruslan2186.github.io/layout_landing-page/#/)  
 
 ## Features
 
-- **Responsive Design:** Ensures the website looks great and functions well on various devices and screen sizes.
+- **Responsive Design:** Ensures the webpage looks great and functions well on various devices and screen sizes.
 - **Interactive UI:** Provides an engaging user experience with interactive elements and smooth transitions.
 
 ## Technologies used
