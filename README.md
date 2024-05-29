@@ -1,7 +1,7 @@
 # NOTHING-LANDING
 
 ## Overview
-This landing page showcases a variety of tech products with a clean and modern design, aiming to provide users with an intuitive and engaging browsing experience.
+This landing page is designed to showcase a selection of cutting-edge tech products with a sleek and modern aesthetic. The primary goal is to create an intuitive and engaging browsing experience for users. The design strictly adheres to the provided layout from designers. The page incorporates smooth animations, responsive design elements, and interactive features that respond seamlessly to user interactions, such as hover effects and smooth scrolling. Special emphasis has been placed on optimizing the page for fast load times and ensuring it is fully accessible to all users.Additionally, the page is optimized for search engines (SEO), which helps increase visibility and attract more visitors. A favicon is included to enhance brand recognition and improve the user experience further.
 
 ## Live Preview
 
