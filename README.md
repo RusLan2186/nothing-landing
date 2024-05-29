@@ -24,5 +24,15 @@ View the design mockup here: [Figma](<https://www.figma.com/design/DtkQmQ797hk0n
 * CSS (SCSS)
 * Figma
 
+## Instructions for Launch:
+1. Clone the repository:
+
+git clone https://github.com/RusLan2186/nothing-landing.git
+
+2. Install the necessary dependencies using:
+npm install
+
+3. Launch the project using:
+npm start
 
 
