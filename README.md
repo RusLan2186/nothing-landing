@@ -22,7 +22,7 @@ View the design mockup here: [Figma](<https://www.figma.com/design/DtkQmQ797hk0n
 
 * HTML
 * CSS (SCSS)
-* Figma: 
+* Figma
 
 
 
