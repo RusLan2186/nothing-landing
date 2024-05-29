@@ -1,4 +1,8 @@
 # NOTHING-LANDING
+
+## Overview
+This landing page showcases a variety of tech products with a clean and modern design, aiming to provide users with an intuitive and engaging browsing experience.
+
 ## Demo
 
 Check out the [DEMO LINK](https://ruslan2186.github.io/layout_landing-page/#/)  to see the project in action!
