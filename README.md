@@ -9,7 +9,7 @@ Check out the live preview of the landing page here:
  [DEMO LINK](https://ruslan2186.github.io/layout_landing-page/#/)  
 
 
-Mockup
+## Mockup
 View the design mockup here: [Figma](<https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139>)
 
 ## Features
